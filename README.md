@@ -34,5 +34,7 @@ Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic
    
 ## Reference
 - [Diffusion policy](https://github.com/real-stanford/diffusion_policy)
+- [Bridger](https://github.com/clear-nus/bridger)
 - [QueST](https://github.com/pairlab/QueST)
+- [HaMeR](https://github.com/geopavlakos/hamer)
 
