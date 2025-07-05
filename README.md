@@ -31,6 +31,14 @@ Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic
 6. Pack
 
    [https://github.com/user-attachments/assets/120fcf7b-7fd5-4675-87b9-be807caf869e](https://github.com/user-attachments/assets/ef093153-12c6-493e-b49d-01ba058c2868)
+
+## Safety monitoring tasks
+
+1. Deploy the sensor
+
+![Deploy](./gifs/deploy.gif)
+
+2. Separate the sensor
    
 ## Reference
 - [Diffusion policy](https://github.com/real-stanford/diffusion_policy)
