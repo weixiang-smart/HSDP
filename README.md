@@ -39,6 +39,8 @@ Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic
 ![Deploy](./gifs/deploy.gif)
 
 2. Separate the sensor
+
+![Separate](./gifs/separate.gif)
    
 ## Reference
 - [Diffusion policy](https://github.com/real-stanford/diffusion_policy)
