@@ -5,7 +5,7 @@ Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic
 
 ### Human action data collection
 
-[https://github.com/user-attachments/assets/2b62fca7-2675-42d3-968c-c68d3454fe67](https://github.com/user-attachments/assets/2f85729a-61ff-42eb-a887-2c60d9192c1f)
+![Hand](./gifs/hand.gif)
 
 ### Robot task performance
 1. Press
