@@ -1,5 +1,5 @@
 # Human-sourced Diffusion Policy
-Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic Manipulation in Safety Monitoring Tasks". We will update the Readme file and upload the code soon.
+Official repository for paper "Human-sourced Diffusion Policy for Robust Robotic Manipulation in Safety Monitoring Tasks". We will update the Readme file and the code soon.
 
 ## Video of real-world experiments
 
